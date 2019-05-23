@@ -22,3 +22,7 @@ python manage.py migrate
 ```python
 python manage.py createsuperuser --email plyx_46204@126.comm --username admin
 ```
+#### 4、启动
+```python
+python manage.py runserver
+```
